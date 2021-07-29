@@ -1,0 +1,58 @@
+/* Google Fonts  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+.bg-banner{
+    background-color: #264653;
+}
+.paragraph{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    color: #E0E0E0;
+}
+.bg-orange{
+    background-color: #E76F51;
+    color: #fff;
+}
+.text-orange{
+    color: #E76F51;
+}
+.client-info{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #6C6C6C;
+    margin: 30px auto 15px;
+}
+h6{
+    font-size: 14px;
+}
+.faq-info{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #7E848C;
+    text-align: left;
+}
+.acrdn-btn {
+    color: #383838;
+    font-size: 20px;
+    background-color: #fff;
+    box-shadow: 0;
+    border: 0;
+}
+.accordion-button:not(.collapsed) {
+    color: #383838;
+    font-size: 20px;
+    background-color: #fff;
+    box-shadow: 0;
+}
+.accordion-button:focus {
+    z-index: 5;
+    border-color: transparent !important;
+    outline: 0px;
+    box-shadow: 0;
+}
